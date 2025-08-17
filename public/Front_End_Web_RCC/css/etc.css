@@ -1,0 +1,125 @@
+.row-aboutus {
+    width: 500px;
+    height: 5px;
+    background: var(--sc-color);
+    z-index: 2;
+    border-radius: 5px;
+    margin-bottom: 100px;
+  }
+
+  #vismis {
+      padding: 100px 0;
+  }
+  
+  h2{
+      font-weight: 700;
+      font-size: 40px;
+      color: var(--pr-color);
+  }
+
+
+  .row-vismis {
+    position: relative;
+    width: 180px;
+    height: 5px;
+    margin: 0 0 0 563px;
+    background: var(--sc-color);
+    z-index: 2;
+    border-radius: 5px;
+  }
+
+#organization {
+  padding: 100 0;
+}
+  h2{
+    font-weight: 700;
+    font-size: 40px;
+    color: var(--pr-color);
+}
+
+
+.row-organization {
+  position: relative;
+  width: 180px;
+  height: 5px;
+  margin: 0 0 0 563px;
+  background: var(--sc-color);
+  z-index: 2;
+  border-radius: 5px;
+}
+
+/* services */
+.row-serviceus {
+  width: 500px;
+  height: 5px;
+  background: var(--sc-color);
+  z-index: 2;
+  border-radius: 5px;
+  margin-bottom: 100px;
+}
+
+/* publication */
+.row-publications {
+    width: 500px;
+    height: 5px;
+    background: var(--sc-color);
+    z-index: 2;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.row-rescolacomm {
+  position: relative;
+  width: 180px;
+  height: 5px;
+  margin: 0 0 0 563px;
+  background: var(--sc-color);
+  z-index: 2;
+  border-radius: 5px;
+  margin-bottom: 100px;
+}
+
+.card-publication {
+  width: 100%;
+  height: 313px;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 40px;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.05);
+}
+
+.publish-text {
+  font-size: 14px;
+}
+
+.publish-button {
+  background-color: var(--pr-color);
+  color: white; 
+  padding: 14px 24px;
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 16px; 
+  margin: 4px 2px;
+  cursor: pointer; 
+  border: none; 
+  border-radius: 4px; 
+  transition: background-color 0.3s; 
+  margin-top: 45px;
+}
+.publish-button:hover {
+  background-color: var(--sc-color);
+  transform: scale(1.05);
+}
+
+/* contact us */
+.row-contactus {
+  width: 500px;
+  height: 5px;
+  background: var(--sc-color);
+  z-index: 2;
+  border-radius: 5px;
+  margin-bottom: 100px;
+}
+
+
+
